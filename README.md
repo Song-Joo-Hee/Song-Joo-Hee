@@ -7,7 +7,7 @@
 <h3> JoyJuhee ✨</h3><br/>
 Hello, I'm Juhee (Joy).<br/>
 My major is ICT convergence and Management.<br/>
-I am interested in backend development, AI, and Cloud.<br/>
+I am interested in backend development and AI.<br/>
  
 
 
